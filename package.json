@@ -1,0 +1,9 @@
+{
+  "name": "qlik-tests",
+  "version": "0.0.1",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-convert": "^0.1.12",
+    "grunt-contrib-clean": "^1.0.0"
+  }
+}

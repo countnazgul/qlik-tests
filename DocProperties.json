@@ -1,0 +1,1352 @@
+{
+  "DocProperties": {
+    "CurrentFileFormat": "6000",
+    "SaveCompressed": "0",
+    "UsePassiveFtp": "false",
+    "IgnoreInfoLost": "false",
+    "GenerateLogfile": "false",
+    "OpenPicTimeout": "0",
+    "OpenPicCloseOnClick": "0",
+    "OpenPicCloseWhenLoaded": "0",
+    "DynamicReduceData": "false",
+    "HideUnavailableMenuOptions": "false",
+    "DefaultExportCharset": "65001",
+    "ScriptingEngine": "0",
+    "PrintSheetSettings": {
+      "Landscape": "true",
+      "PrintCurrentSelectionPosition": "BOTTOM_OF_LAST_PAGE",
+      "ShowTimeStamp": "true",
+      "ShowWindowTitle": "true",
+      "MarginLeft": "236",
+      "MarginTop": "236",
+      "MarginRight": "236",
+      "MarginBottom": "236",
+      "UseScale": "true",
+      "Scale": "100",
+      "PagesX": "1",
+      "PagesY": "1",
+      "ShowPageNumbers": "false",
+      "MarginHeader": "120",
+      "MarginFooter": "120",
+      "Header_Left_Font": {
+        "FontName": "Tahoma",
+        "PointSize1000": "8000",
+        "Underline": "false",
+        "Bold": "false",
+        "Italic": "false",
+        "DropShadow": "false"
+      },
+      "Header_Center_Font": {
+        "FontName": "Tahoma",
+        "PointSize1000": "8000",
+        "Underline": "false",
+        "Bold": "false",
+        "Italic": "false",
+        "DropShadow": "false"
+      },
+      "Header_Right_Font": {
+        "FontName": "Tahoma",
+        "PointSize1000": "8000",
+        "Underline": "false",
+        "Bold": "false",
+        "Italic": "false",
+        "DropShadow": "false"
+      },
+      "Footer_Left_Font": {
+        "FontName": "Tahoma",
+        "PointSize1000": "8000",
+        "Underline": "false",
+        "Bold": "false",
+        "Italic": "false",
+        "DropShadow": "false"
+      },
+      "Footer_Center_Font": {
+        "FontName": "Tahoma",
+        "PointSize1000": "8000",
+        "Underline": "false",
+        "Bold": "false",
+        "Italic": "false",
+        "DropShadow": "false"
+      },
+      "Footer_Right_Font": {
+        "FontName": "Tahoma",
+        "PointSize1000": "8000",
+        "Underline": "false",
+        "Bold": "false",
+        "Italic": "false",
+        "DropShadow": "false"
+      },
+      "Header_Left_Font_UserSet": "false",
+      "Header_Center_Font_UserSet": "false",
+      "Header_Right_Font_UserSet": "false",
+      "Footer_Left_Font_UserSet": "false",
+      "Footer_Center_Font_UserSet": "false",
+      "Footer_Right_Font_UserSet": "false",
+      "Header_Left": "",
+      "Header_Center": "",
+      "Header_Right": "",
+      "Footer_Left": "",
+      "Footer_Center": "",
+      "Footer_Right": "",
+      "SelectedPaperFormat": "",
+      "SelectedPrinter": "",
+      "HeadingText": "",
+      "HeadingTextFont": "",
+      "HeadingTextFont_UserSet": "false",
+      "TrailingText": "",
+      "TrailingTextFont": "",
+      "TrailingTextFont_UserSet": "false",
+      "ImageArray": "",
+      "SelectionStampFont": "",
+      "SheetPrintDrawBackGround": "false",
+      "StrDevModeExtra": ""
+    },
+    "TableViewerPrintSettings": {
+      "Landscape": "true",
+      "PrintCurrentSelectionPosition": "BOTTOM_OF_LAST_PAGE",
+      "ShowTimeStamp": "true",
+      "ShowWindowTitle": "true",
+      "MarginLeft": "236",
+      "MarginTop": "236",
+      "MarginRight": "236",
+      "MarginBottom": "236",
+      "UseScale": "true",
+      "Scale": "100",
+      "PagesX": "1",
+      "PagesY": "1",
+      "ShowPageNumbers": "false",
+      "MarginHeader": "120",
+      "MarginFooter": "120",
+      "Header_Left_Font": {
+        "FontName": "Tahoma",
+        "PointSize1000": "8000",
+        "Underline": "false",
+        "Bold": "false",
+        "Italic": "false",
+        "DropShadow": "false"
+      },
+      "Header_Center_Font": {
+        "FontName": "Tahoma",
+        "PointSize1000": "8000",
+        "Underline": "false",
+        "Bold": "false",
+        "Italic": "false",
+        "DropShadow": "false"
+      },
+      "Header_Right_Font": {
+        "FontName": "Tahoma",
+        "PointSize1000": "8000",
+        "Underline": "false",
+        "Bold": "false",
+        "Italic": "false",
+        "DropShadow": "false"
+      },
+      "Footer_Left_Font": {
+        "FontName": "Tahoma",
+        "PointSize1000": "8000",
+        "Underline": "false",
+        "Bold": "false",
+        "Italic": "false",
+        "DropShadow": "false"
+      },
+      "Footer_Center_Font": {
+        "FontName": "Tahoma",
+        "PointSize1000": "8000",
+        "Underline": "false",
+        "Bold": "false",
+        "Italic": "false",
+        "DropShadow": "false"
+      },
+      "Footer_Right_Font": {
+        "FontName": "Tahoma",
+        "PointSize1000": "8000",
+        "Underline": "false",
+        "Bold": "false",
+        "Italic": "false",
+        "DropShadow": "false"
+      },
+      "Header_Left_Font_UserSet": "false",
+      "Header_Center_Font_UserSet": "false",
+      "Header_Right_Font_UserSet": "false",
+      "Footer_Left_Font_UserSet": "false",
+      "Footer_Center_Font_UserSet": "false",
+      "Footer_Right_Font_UserSet": "false",
+      "Header_Left": "",
+      "Header_Center": "",
+      "Header_Right": "",
+      "Footer_Left": "",
+      "Footer_Center": "",
+      "Footer_Right": "",
+      "SelectedPaperFormat": "",
+      "SelectedPrinter": "",
+      "HeadingText": "",
+      "HeadingTextFont": "",
+      "HeadingTextFont_UserSet": "false",
+      "TrailingText": "",
+      "TrailingTextFont": "",
+      "TrailingTextFont_UserSet": "false",
+      "ImageArray": "",
+      "SelectionStampFont": "",
+      "SheetPrintDrawBackGround": "false",
+      "StrDevModeExtra": ""
+    },
+    "ProhibitBinaryLoad": "false",
+    "Author": "",
+    "FreeDays": "0",
+    "WarningDays": "0",
+    "SaveAsPrim": "false",
+    "WasSavedAsPrim": "false",
+    "MyFileType": "1729",
+    "UserPermissions": "",
+    "SelectionStyle": "SS_CLASSIC",
+    "SelectionColors": "6",
+    "WallpaperPic": {
+      "enctype": "base64"
+    },
+    "OpeningPic": {
+      "enctype": "base64"
+    },
+    "OpeningSound": {
+      "enctype": "base64"
+    },
+    "ColorMap": {
+      "ColorAreaDef": [
+        {
+          "Mode": "COLORAREA_SOLID",
+          "Luminosity": "85",
+          "FillDirection": "COLORAREA_HORZ",
+          "FillPattern": "COLORAREA_PATTERN1",
+          "PrimaryCol": {
+            "Col": {
+              "Red": "141",
+              "Green": "170",
+              "Blue": "203",
+              "Alpha": "255"
+            },
+            "IsCalculated": "false",
+            "ColorExpr": ""
+          },
+          "SecondaryCol": "",
+          "Alpha": "255"
+        },
+        {
+          "Mode": "COLORAREA_SOLID",
+          "Luminosity": "85",
+          "FillDirection": "COLORAREA_HORZ",
+          "FillPattern": "COLORAREA_PATTERN1",
+          "PrimaryCol": {
+            "Col": {
+              "Red": "252",
+              "Green": "115",
+              "Blue": "98",
+              "Alpha": "255"
+            },
+            "IsCalculated": "false",
+            "ColorExpr": ""
+          },
+          "SecondaryCol": "",
+          "Alpha": "255"
+        },
+        {
+          "Mode": "COLORAREA_SOLID",
+          "Luminosity": "85",
+          "FillDirection": "COLORAREA_HORZ",
+          "FillPattern": "COLORAREA_PATTERN1",
+          "PrimaryCol": {
+            "Col": {
+              "Red": "187",
+              "Green": "216",
+              "Blue": "84",
+              "Alpha": "255"
+            },
+            "IsCalculated": "false",
+            "ColorExpr": ""
+          },
+          "SecondaryCol": "",
+          "Alpha": "255"
+        },
+        {
+          "Mode": "COLORAREA_SOLID",
+          "Luminosity": "85",
+          "FillDirection": "COLORAREA_HORZ",
+          "FillPattern": "COLORAREA_PATTERN1",
+          "PrimaryCol": {
+            "Col": {
+              "Red": "255",
+              "Green": "217",
+              "Blue": "47",
+              "Alpha": "255"
+            },
+            "IsCalculated": "false",
+            "ColorExpr": ""
+          },
+          "SecondaryCol": "",
+          "Alpha": "255"
+        },
+        {
+          "Mode": "COLORAREA_SOLID",
+          "Luminosity": "85",
+          "FillDirection": "COLORAREA_HORZ",
+          "FillPattern": "COLORAREA_PATTERN1",
+          "PrimaryCol": {
+            "Col": {
+              "Red": "102",
+              "Green": "194",
+              "Blue": "150",
+              "Alpha": "255"
+            },
+            "IsCalculated": "false",
+            "ColorExpr": ""
+          },
+          "SecondaryCol": "",
+          "Alpha": "255"
+        },
+        {
+          "Mode": "COLORAREA_SOLID",
+          "Luminosity": "85",
+          "FillDirection": "COLORAREA_HORZ",
+          "FillPattern": "COLORAREA_PATTERN1",
+          "PrimaryCol": {
+            "Col": {
+              "Red": "229",
+              "Green": "182",
+              "Blue": "148",
+              "Alpha": "255"
+            },
+            "IsCalculated": "false",
+            "ColorExpr": ""
+          },
+          "SecondaryCol": "",
+          "Alpha": "255"
+        },
+        {
+          "Mode": "COLORAREA_SOLID",
+          "Luminosity": "85",
+          "FillDirection": "COLORAREA_HORZ",
+          "FillPattern": "COLORAREA_PATTERN1",
+          "PrimaryCol": {
+            "Col": {
+              "Red": "231",
+              "Green": "138",
+              "Blue": "210",
+              "Alpha": "255"
+            },
+            "IsCalculated": "false",
+            "ColorExpr": ""
+          },
+          "SecondaryCol": "",
+          "Alpha": "255"
+        },
+        {
+          "Mode": "COLORAREA_SOLID",
+          "Luminosity": "85",
+          "FillDirection": "COLORAREA_HORZ",
+          "FillPattern": "COLORAREA_PATTERN1",
+          "PrimaryCol": {
+            "Col": {
+              "Red": "179",
+              "Green": "179",
+              "Blue": "179",
+              "Alpha": "255"
+            },
+            "IsCalculated": "false",
+            "ColorExpr": ""
+          },
+          "SecondaryCol": "",
+          "Alpha": "255"
+        },
+        {
+          "Mode": "COLORAREA_SOLID",
+          "Luminosity": "85",
+          "FillDirection": "COLORAREA_HORZ",
+          "FillPattern": "COLORAREA_PATTERN1",
+          "PrimaryCol": {
+            "Col": {
+              "Red": "166",
+              "Green": "216",
+              "Blue": "227",
+              "Alpha": "255"
+            },
+            "IsCalculated": "false",
+            "ColorExpr": ""
+          },
+          "SecondaryCol": "",
+          "Alpha": "255"
+        },
+        {
+          "Mode": "COLORAREA_SOLID",
+          "Luminosity": "85",
+          "FillDirection": "COLORAREA_HORZ",
+          "FillPattern": "COLORAREA_PATTERN1",
+          "PrimaryCol": {
+            "Col": {
+              "Red": "171",
+              "Green": "233",
+              "Blue": "188",
+              "Alpha": "255"
+            },
+            "IsCalculated": "false",
+            "ColorExpr": ""
+          },
+          "SecondaryCol": "",
+          "Alpha": "255"
+        },
+        {
+          "Mode": "COLORAREA_SOLID",
+          "Luminosity": "85",
+          "FillDirection": "COLORAREA_HORZ",
+          "FillPattern": "COLORAREA_PATTERN1",
+          "PrimaryCol": {
+            "Col": {
+              "Red": "27",
+              "Green": "125",
+              "Blue": "156",
+              "Alpha": "255"
+            },
+            "IsCalculated": "false",
+            "ColorExpr": ""
+          },
+          "SecondaryCol": "",
+          "Alpha": "255"
+        },
+        {
+          "Mode": "COLORAREA_SOLID",
+          "Luminosity": "85",
+          "FillDirection": "COLORAREA_HORZ",
+          "FillPattern": "COLORAREA_PATTERN1",
+          "PrimaryCol": {
+            "Col": {
+              "Red": "255",
+              "Green": "191",
+              "Blue": "201",
+              "Alpha": "255"
+            },
+            "IsCalculated": "false",
+            "ColorExpr": ""
+          },
+          "SecondaryCol": "",
+          "Alpha": "255"
+        },
+        {
+          "Mode": "COLORAREA_SOLID",
+          "Luminosity": "85",
+          "FillDirection": "COLORAREA_HORZ",
+          "FillPattern": "COLORAREA_PATTERN1",
+          "PrimaryCol": {
+            "Col": {
+              "Red": "77",
+              "Green": "167",
+              "Blue": "65",
+              "Alpha": "255"
+            },
+            "IsCalculated": "false",
+            "ColorExpr": ""
+          },
+          "SecondaryCol": "",
+          "Alpha": "255"
+        },
+        {
+          "Mode": "COLORAREA_SOLID",
+          "Luminosity": "85",
+          "FillDirection": "COLORAREA_HORZ",
+          "FillPattern": "COLORAREA_PATTERN1",
+          "PrimaryCol": {
+            "Col": {
+              "Red": "196",
+              "Green": "178",
+              "Blue": "214",
+              "Alpha": "255"
+            },
+            "IsCalculated": "false",
+            "ColorExpr": ""
+          },
+          "SecondaryCol": "",
+          "Alpha": "255"
+        },
+        {
+          "Mode": "COLORAREA_SOLID",
+          "Luminosity": "85",
+          "FillDirection": "COLORAREA_HORZ",
+          "FillPattern": "COLORAREA_PATTERN1",
+          "PrimaryCol": {
+            "Col": {
+              "Red": "178",
+              "Green": "36",
+              "Blue": "36",
+              "Alpha": "255"
+            },
+            "IsCalculated": "false",
+            "ColorExpr": ""
+          },
+          "SecondaryCol": "",
+          "Alpha": "255"
+        },
+        {
+          "Mode": "COLORAREA_SOLID",
+          "Luminosity": "85",
+          "FillDirection": "COLORAREA_HORZ",
+          "FillPattern": "COLORAREA_PATTERN1",
+          "PrimaryCol": {
+            "Col": {
+              "Red": "0",
+              "Green": "172",
+              "Blue": "172",
+              "Alpha": "255"
+            },
+            "IsCalculated": "false",
+            "ColorExpr": ""
+          },
+          "SecondaryCol": "",
+          "Alpha": "255"
+        },
+        {
+          "Mode": "COLORAREA_SOLID",
+          "Luminosity": "85",
+          "FillDirection": "COLORAREA_HORZ",
+          "FillPattern": "COLORAREA_PATTERN1",
+          "PrimaryCol": {
+            "Col": {
+              "Red": "190",
+              "Green": "108",
+              "Blue": "44",
+              "Alpha": "255"
+            },
+            "IsCalculated": "false",
+            "ColorExpr": ""
+          },
+          "SecondaryCol": "",
+          "Alpha": "255"
+        },
+        {
+          "Mode": "COLORAREA_SOLID",
+          "Luminosity": "85",
+          "FillDirection": "COLORAREA_HORZ",
+          "FillPattern": "COLORAREA_PATTERN1",
+          "PrimaryCol": {
+            "Col": {
+              "Red": "105",
+              "Green": "84",
+              "Blue": "150",
+              "Alpha": "255"
+            },
+            "IsCalculated": "false",
+            "ColorExpr": ""
+          },
+          "SecondaryCol": "",
+          "Alpha": "255"
+        },
+        {
+          "Mode": "COLORAREA_SOLID",
+          "Luminosity": "85",
+          "FillDirection": "COLORAREA_HORZ",
+          "FillPattern": "COLORAREA_PATTERN1",
+          "PrimaryCol": {
+            "Col": {
+              "Red": "80",
+              "Green": "160",
+              "Blue": "240",
+              "Alpha": "255"
+            },
+            "IsCalculated": "false",
+            "ColorExpr": ""
+          },
+          "SecondaryCol": "",
+          "Alpha": "255"
+        },
+        {
+          "Mode": "COLORAREA_SOLID",
+          "Luminosity": "85",
+          "FillDirection": "COLORAREA_HORZ",
+          "FillPattern": "COLORAREA_PATTERN1",
+          "PrimaryCol": {
+            "Col": {
+              "Red": "240",
+              "Green": "160",
+              "Blue": "80",
+              "Alpha": "255"
+            },
+            "IsCalculated": "false",
+            "ColorExpr": ""
+          },
+          "SecondaryCol": "",
+          "Alpha": "255"
+        }
+      ]
+    },
+    "CaptionFrame": {
+      "BorderWidth": "4",
+      "BorderEffect": "FLAT",
+      "Color": {
+        "Mode": "COLORAREA_SOLID",
+        "Luminosity": "85",
+        "FillDirection": "COLORAREA_HORZ",
+        "FillPattern": "COLORAREA_PATTERN1",
+        "PrimaryCol": {
+          "Col": {
+            "Red": "4",
+            "Green": "108",
+            "Blue": "193",
+            "Alpha": "255"
+          },
+          "IsCalculated": "false",
+          "ColorExpr": ""
+        },
+        "SecondaryCol": "",
+        "Alpha": "255"
+      },
+      "Font": {
+        "FontName": "Tahoma",
+        "PointSize1000": "8000",
+        "Underline": "false",
+        "Bold": "false",
+        "Italic": "false",
+        "DropShadow": "false"
+      },
+      "CaptionFont": {
+        "FontName": "Tahoma",
+        "PointSize1000": "10000",
+        "Underline": "false",
+        "Bold": "true",
+        "Italic": "false",
+        "DropShadow": "false"
+      },
+      "Name": "",
+      "Bmp": {
+        "enctype": "base64"
+      },
+      "BmpMode": "0",
+      "Detached": "false",
+      "AllowMinimize": "false",
+      "AutoMinimize": "false",
+      "AllowMaximize": "false",
+      "AllowInfo": "false",
+      "PrintIcon": "false",
+      "CopyIcon": "false",
+      "XLIcon": "false",
+      "SearchIcon": "false",
+      "SelectPossibleIcon": "false",
+      "SelectExcludedIcon": "false",
+      "SelectAllIcon": "false",
+      "ClearIcon": "false",
+      "ClearOtherIcon": "false",
+      "LockIcon": "false",
+      "HelpText": "",
+      "ObjectId": "",
+      "ShrinkFrameToData": "true",
+      "ShowCaption": "true",
+      "MultiLine": "0",
+      "ActiveBgColor": {
+        "Mode": "COLORAREA_SOLID",
+        "Luminosity": "85",
+        "FillDirection": "COLORAREA_HORZ",
+        "FillPattern": "COLORAREA_PATTERN1",
+        "PrimaryCol": {
+          "Col": {
+            "Red": "210",
+            "Green": "210",
+            "Blue": "210",
+            "Alpha": "255"
+          },
+          "IsCalculated": "false",
+          "ColorExpr": ""
+        },
+        "SecondaryCol": {
+          "Col": {
+            "Red": "153",
+            "Green": "153",
+            "Blue": "153",
+            "Alpha": "255"
+          },
+          "IsCalculated": "false",
+          "ColorExpr": ""
+        },
+        "Alpha": "255"
+      },
+      "BgColor": {
+        "Mode": "COLORAREA_SOLID",
+        "Luminosity": "85",
+        "FillDirection": "COLORAREA_HORZ",
+        "FillPattern": "COLORAREA_PATTERN1",
+        "PrimaryCol": {
+          "Col": {
+            "Red": "232",
+            "Green": "232",
+            "Blue": "232",
+            "Alpha": "255"
+          },
+          "IsCalculated": "false",
+          "ColorExpr": ""
+        },
+        "SecondaryCol": {
+          "Col": {
+            "Red": "200",
+            "Green": "200",
+            "Blue": "200",
+            "Alpha": "255"
+          },
+          "IsCalculated": "false",
+          "ColorExpr": ""
+        },
+        "Alpha": "255"
+      },
+      "ActiveFgColor": {
+        "Mode": "COLORAREA_SOLID",
+        "Luminosity": "85",
+        "FillDirection": "COLORAREA_HORZ",
+        "FillPattern": "COLORAREA_PATTERN1",
+        "PrimaryCol": {
+          "Col": {
+            "Red": "54",
+            "Green": "54",
+            "Blue": "54",
+            "Alpha": "255"
+          },
+          "IsCalculated": "false",
+          "ColorExpr": ""
+        },
+        "SecondaryCol": "",
+        "Alpha": "255"
+      },
+      "FgColor": {
+        "Mode": "COLORAREA_SOLID",
+        "Luminosity": "85",
+        "FillDirection": "COLORAREA_HORZ",
+        "FillPattern": "COLORAREA_PATTERN1",
+        "PrimaryCol": {
+          "Col": {
+            "Red": "54",
+            "Green": "54",
+            "Blue": "54",
+            "Alpha": "255"
+          },
+          "IsCalculated": "false",
+          "ColorExpr": ""
+        },
+        "SecondaryCol": "",
+        "Alpha": "255"
+      },
+      "FixCorner": "true",
+      "FixCornerSize": "21",
+      "RelCornerSize": "4059000000000000",
+      "Power": "4000000000000000",
+      "RoundedShape": "true",
+      "EnableTopLeftRounded": "true",
+      "EnableTopRightRounded": "true",
+      "EnableBottomLeftRounded": "true",
+      "EnableBottomRightRounded": "true",
+      "Light": "3FEE666666666666",
+      "Dark": "3FC3333333333333",
+      "Rainbow": "false",
+      "TextAdjustHorizontal": "0",
+      "TextAdjustVertical": "4",
+      "Show": "",
+      "AllowMoveSize": "true",
+      "AllowCopyClone": "true",
+      "dummy": "",
+      "CustomObjectGuid": {
+        "enctype": "base64"
+      },
+      "CustomObjectProperties": {
+        "enctype": "base64"
+      },
+      "ScrollBkgColor": {
+        "Col": {
+          "Red": "255",
+          "Green": "255",
+          "Blue": "255",
+          "Alpha": "255"
+        },
+        "IsCalculated": "false",
+        "ColorExpr": ""
+      },
+      "ScrollButtonColor": {
+        "Col": {
+          "Red": "192",
+          "Green": "192",
+          "Blue": "192",
+          "Alpha": "255"
+        },
+        "IsCalculated": "false",
+        "ColorExpr": ""
+      },
+      "ScrollStyle": "SCROLL_SIX",
+      "ScrollWidth": "38",
+      "AllowModify": "true",
+      "CopyImageIcon": "false",
+      "PreserveScrollPosition": "false",
+      "ShadowIntensity": "SHADOW_NONE",
+      "OnActivateActionItems": "",
+      "OnDeactivateActionItems": "",
+      "Extension": "",
+      "Background": "",
+      "MenuIcon": "false",
+      "ExtendedProperties": "",
+      "ExtendedValues": "",
+      "StateName": ""
+    },
+    "HasTableOriginOfFields": "false",
+    "ReloadTimeObsololete": "",
+    "VBModulePos": "-2",
+    "VBModuleXScrollPos": "-2",
+    "VBModuleYScrollPos": "-2",
+    "ScriptWantsExe": "false",
+    "ScriptWantsDbWrite": "false",
+    "CurrentBookmark": "",
+    "CurrentCompression": "2",
+    "InheritedAccess": "false",
+    "LocaleInfo": {
+      "DecimalSep": ".",
+      "ThousandSep": ",",
+      "ListSep": ",",
+      "MoneyDecimalSep": ".",
+      "MoneyThousandSep": ",",
+      "CurrentYear": "2016",
+      "MoneyFmt": "£#,##0.00;-£#,##0.00",
+      "TimeFmt": "hh:mm:ss",
+      "DateFmt": "DD/MM/YYYY",
+      "TimestampFmt": "DD/MM/YYYY hh:mm:ss[.fff]",
+      "CalendarStrings": {
+        "DayNames": {
+          "String": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat",
+            "Sun"
+          ]
+        },
+        "MonthNames": {
+          "String": [
+            "Jan",
+            "Feb",
+            "Mar",
+            "Apr",
+            "May",
+            "Jun",
+            "Jul",
+            "Aug",
+            "Sep",
+            "Oct",
+            "Nov",
+            "Dec"
+          ]
+        },
+        "LongDayNames": {
+          "String": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ]
+        },
+        "LongMonthNames": {
+          "String": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December"
+          ]
+        }
+      },
+      "FirstWeekDay": "0",
+      "BrokenWeeks": "false",
+      "ReferenceDay": "4",
+      "FirstMonthOfYear": "1",
+      "Collation": "en-GB"
+    },
+    "HasWorkingDirectory": "true",
+    "IsPurged": "false",
+    "Contact": "",
+    "TimerPollInterval": "1",
+    "BookmarkSortOrder": {
+      "NameOrder": "true",
+      "CreateTimeOrder": "false",
+      "RecallTimeOrder": "false",
+      "RecallCountOrder": "false",
+      "InterOrder": {
+        "int": [
+          "2",
+          "0",
+          "1",
+          "3"
+        ]
+      }
+    },
+    "ScriptTabActiveTab": "0",
+    "ModuleSystemAccessIntended": "0",
+    "InhibitAggressiveQvdCleaning": "false",
+    "Alerts": "",
+    "DefaultAlertPopupProperties": {
+      "Layout": {
+        "BkgColor": {
+          "Mode": "COLORAREA_DOUBLE_COLORS",
+          "Luminosity": "85",
+          "FillDirection": "COLORAREA_HORZ",
+          "FillPattern": "COLORAREA_PATTERN1",
+          "PrimaryCol": {
+            "Col": {
+              "Red": "255",
+              "Green": "255",
+              "Blue": "255",
+              "Alpha": "238"
+            },
+            "IsCalculated": "false",
+            "ColorExpr": ""
+          },
+          "SecondaryCol": {
+            "Col": {
+              "Red": "255",
+              "Green": "255",
+              "Blue": "197",
+              "Alpha": "238"
+            },
+            "IsCalculated": "false",
+            "ColorExpr": ""
+          },
+          "Alpha": "255"
+        },
+        "TextColor": "",
+        "Font": {
+          "FontName": "Tahoma",
+          "PointSize1000": "9000",
+          "Underline": "false",
+          "Bold": "false",
+          "Italic": "false",
+          "DropShadow": "false"
+        },
+        "Icon": "WARNING",
+        "SecsToShow": {
+          "v": "0"
+        },
+        "Sound": "",
+        "BorderColor": {
+          "Col": {
+            "Red": "40",
+            "Green": "40",
+            "Blue": "0",
+            "Alpha": "224"
+          },
+          "IsCalculated": "false",
+          "ColorExpr": ""
+        }
+      }
+    },
+    "DefaultHelpPopupProperties": {
+      "Layout": {
+        "BkgColor": {
+          "Mode": "COLORAREA_DOUBLE_COLORS",
+          "Luminosity": "85",
+          "FillDirection": "COLORAREA_HORZ",
+          "FillPattern": "COLORAREA_PATTERN1",
+          "PrimaryCol": {
+            "Col": {
+              "Red": "210",
+              "Green": "222",
+              "Blue": "254",
+              "Alpha": "238"
+            },
+            "IsCalculated": "false",
+            "ColorExpr": ""
+          },
+          "SecondaryCol": {
+            "Col": {
+              "Red": "162",
+              "Green": "178",
+              "Blue": "239",
+              "Alpha": "238"
+            },
+            "IsCalculated": "false",
+            "ColorExpr": ""
+          },
+          "Alpha": "255"
+        },
+        "TextColor": "",
+        "Font": {
+          "FontName": "Tahoma",
+          "PointSize1000": "9000",
+          "Underline": "false",
+          "Bold": "false",
+          "Italic": "false",
+          "DropShadow": "false"
+        },
+        "Icon": "QUESTION",
+        "SecsToShow": {
+          "v": "0"
+        },
+        "Sound": "",
+        "BorderColor": {
+          "Col": {
+            "Red": "31",
+            "Green": "0",
+            "Blue": "131",
+            "Alpha": "224"
+          },
+          "IsCalculated": "false",
+          "ColorExpr": ""
+        }
+      }
+    },
+    "DefaultBookmarkPopupProperties": {
+      "Layout": {
+        "BkgColor": {
+          "Mode": "COLORAREA_DOUBLE_COLORS",
+          "Luminosity": "85",
+          "FillDirection": "COLORAREA_HORZ",
+          "FillPattern": "COLORAREA_PATTERN1",
+          "PrimaryCol": {
+            "Col": {
+              "Red": "255",
+              "Green": "255",
+              "Blue": "255",
+              "Alpha": "238"
+            },
+            "IsCalculated": "false",
+            "ColorExpr": ""
+          },
+          "SecondaryCol": {
+            "Col": {
+              "Red": "240",
+              "Green": "240",
+              "Blue": "240",
+              "Alpha": "238"
+            },
+            "IsCalculated": "false",
+            "ColorExpr": ""
+          },
+          "Alpha": "255"
+        },
+        "TextColor": "",
+        "Font": {
+          "FontName": "Tahoma",
+          "PointSize1000": "9000",
+          "Underline": "false",
+          "Bold": "false",
+          "Italic": "false",
+          "DropShadow": "false"
+        },
+        "Icon": "NO_ICON",
+        "SecsToShow": {
+          "v": "0"
+        },
+        "Sound": "",
+        "BorderColor": {
+          "Col": {
+            "Red": "50",
+            "Green": "50",
+            "Blue": "50",
+            "Alpha": "224"
+          },
+          "IsCalculated": "false",
+          "ColorExpr": ""
+        }
+      }
+    },
+    "LastReduceTime": "0000000000000000",
+    "StrictDynamicReduction": "true",
+    "CompatibleFractile": "true",
+    "SuppressScriptProgressButtons": "false",
+    "DisablePopupMenus": "false",
+    "SelectionFgColor": {
+      "ColorAreaDef": [
+        {
+          "Mode": "COLORAREA_SOLID",
+          "Luminosity": "85",
+          "FillDirection": "COLORAREA_HORZ",
+          "FillPattern": "COLORAREA_PATTERN1",
+          "PrimaryCol": {
+            "Col": {
+              "Red": "255",
+              "Green": "255",
+              "Blue": "0",
+              "Alpha": "255"
+            },
+            "IsCalculated": "false",
+            "ColorExpr": ""
+          },
+          "SecondaryCol": "",
+          "Alpha": "255"
+        },
+        "",
+        {
+          "Mode": "COLORAREA_SOLID",
+          "Luminosity": "85",
+          "FillDirection": "COLORAREA_HORZ",
+          "FillPattern": "COLORAREA_PATTERN1",
+          "PrimaryCol": {
+            "Col": {
+              "Red": "54",
+              "Green": "54",
+              "Blue": "54",
+              "Alpha": "255"
+            },
+            "IsCalculated": "false",
+            "ColorExpr": ""
+          },
+          "SecondaryCol": "",
+          "Alpha": "255"
+        },
+        {
+          "Mode": "COLORAREA_SOLID",
+          "Luminosity": "85",
+          "FillDirection": "COLORAREA_HORZ",
+          "FillPattern": "COLORAREA_PATTERN1",
+          "PrimaryCol": {
+            "Col": {
+              "Red": "255",
+              "Green": "255",
+              "Blue": "255",
+              "Alpha": "255"
+            },
+            "IsCalculated": "false",
+            "ColorExpr": ""
+          },
+          "SecondaryCol": "",
+          "Alpha": "255"
+        },
+        {
+          "Mode": "COLORAREA_SOLID",
+          "Luminosity": "85",
+          "FillDirection": "COLORAREA_HORZ",
+          "FillPattern": "COLORAREA_PATTERN1",
+          "PrimaryCol": {
+            "Col": {
+              "Red": "64",
+              "Green": "64",
+              "Blue": "64",
+              "Alpha": "255"
+            },
+            "IsCalculated": "false",
+            "ColorExpr": ""
+          },
+          "SecondaryCol": "",
+          "Alpha": "255"
+        },
+        "",
+        "",
+        ""
+      ]
+    },
+    "SelectionBgColor": {
+      "ColorAreaDef": [
+        {
+          "Mode": "COLORAREA_SOLID",
+          "Luminosity": "85",
+          "FillDirection": "COLORAREA_HORZ",
+          "FillPattern": "COLORAREA_PATTERN1",
+          "PrimaryCol": {
+            "Col": {
+              "Red": "117",
+              "Green": "150",
+              "Blue": "194",
+              "Alpha": "255"
+            },
+            "IsCalculated": "false",
+            "ColorExpr": ""
+          },
+          "SecondaryCol": "",
+          "Alpha": "255"
+        },
+        {
+          "Mode": "COLORAREA_SOLID",
+          "Luminosity": "85",
+          "FillDirection": "COLORAREA_HORZ",
+          "FillPattern": "COLORAREA_PATTERN1",
+          "PrimaryCol": {
+            "Col": {
+              "Red": "0",
+              "Green": "240",
+              "Blue": "16",
+              "Alpha": "255"
+            },
+            "IsCalculated": "false",
+            "ColorExpr": ""
+          },
+          "SecondaryCol": "",
+          "Alpha": "255"
+        },
+        {
+          "Mode": "COLORAREA_SOLID",
+          "Luminosity": "85",
+          "FillDirection": "COLORAREA_HORZ",
+          "FillPattern": "COLORAREA_PATTERN1",
+          "PrimaryCol": {
+            "Col": {
+              "Red": "255",
+              "Green": "255",
+              "Blue": "255",
+              "Alpha": "255"
+            },
+            "IsCalculated": "false",
+            "ColorExpr": ""
+          },
+          "SecondaryCol": "",
+          "Alpha": "255"
+        },
+        {
+          "Mode": "COLORAREA_SOLID",
+          "Luminosity": "85",
+          "FillDirection": "COLORAREA_HORZ",
+          "FillPattern": "COLORAREA_PATTERN1",
+          "PrimaryCol": {
+            "Col": {
+              "Red": "195",
+              "Green": "104",
+              "Blue": "104",
+              "Alpha": "255"
+            },
+            "IsCalculated": "false",
+            "ColorExpr": ""
+          },
+          "SecondaryCol": "",
+          "Alpha": "255"
+        },
+        {
+          "Mode": "COLORAREA_SOLID",
+          "Luminosity": "85",
+          "FillDirection": "COLORAREA_HORZ",
+          "FillPattern": "COLORAREA_PATTERN1",
+          "PrimaryCol": {
+            "Col": {
+              "Red": "255",
+              "Green": "255",
+              "Blue": "196",
+              "Alpha": "255"
+            },
+            "IsCalculated": "false",
+            "ColorExpr": ""
+          },
+          "SecondaryCol": "",
+          "Alpha": "255"
+        },
+        {
+          "Mode": "COLORAREA_SOLID",
+          "Luminosity": "85",
+          "FillDirection": "COLORAREA_HORZ",
+          "FillPattern": "COLORAREA_PATTERN1",
+          "PrimaryCol": {
+            "Col": {
+              "Red": "219",
+              "Green": "219",
+              "Blue": "219",
+              "Alpha": "255"
+            },
+            "IsCalculated": "false",
+            "ColorExpr": ""
+          },
+          "SecondaryCol": "",
+          "Alpha": "255"
+        },
+        {
+          "Mode": "COLORAREA_SOLID",
+          "Luminosity": "85",
+          "FillDirection": "COLORAREA_HORZ",
+          "FillPattern": "COLORAREA_PATTERN1",
+          "PrimaryCol": {
+            "Col": {
+              "Red": "219",
+              "Green": "219",
+              "Blue": "219",
+              "Alpha": "255"
+            },
+            "IsCalculated": "false",
+            "ColorExpr": ""
+          },
+          "SecondaryCol": "",
+          "Alpha": "255"
+        },
+        {
+          "Mode": "COLORAREA_SOLID",
+          "Luminosity": "85",
+          "FillDirection": "COLORAREA_HORZ",
+          "FillPattern": "COLORAREA_PATTERN1",
+          "PrimaryCol": {
+            "Col": {
+              "Red": "219",
+              "Green": "219",
+              "Blue": "219",
+              "Alpha": "255"
+            },
+            "IsCalculated": "false",
+            "ColorExpr": ""
+          },
+          "SecondaryCol": "",
+          "Alpha": "255"
+        }
+      ]
+    },
+    "ObjectCaptionStyle": "OCS_SIMPLIFIED_AIR",
+    "DefaultTheme": "",
+    "DisableLayoutUndo": "false",
+    "ClientGracefulMode": "CG_INDICATE",
+    "ServerGracefulMode": "SG_AUTO",
+    "AllowServerBookmarks": "true",
+    "AllowServerAlerts": "true",
+    "AllowServerObjects": "true",
+    "AllowServerReports": "true",
+    "TxBuFont": "",
+    "breakpointList": "",
+    "IdleSecondsBeforeClose": "0",
+    "ElapsedSecondsBeforeClose": "0",
+    "AllowServerCharts": "true",
+    "AllowServerListBoxes": "true",
+    "AllowServerMultiBoxes": "true",
+    "AllowServerTableBoxes": "true",
+    "AllowServerTextObjects": "true",
+    "AllowServerStatisticsBoxes": "true",
+    "AllowServerButtons": "false",
+    "AllowServerInputBoxes": "false",
+    "AllowServerSliders": "false",
+    "AllowServerLineArrows": "false",
+    "AllowServerCurrentSelectionBoxes": "false",
+    "AllowServerBookmarkObjects": "false",
+    "InitialSelection": "false",
+    "PublisherSchedule": "",
+    "ThumbNailSettings": "",
+    "OnOpenActionItems": "",
+    "OnSelectionActionItems": "",
+    "OnPostReloadActionItems": "",
+    "OnPostReduceDataActionItems": "",
+    "EnablePushFromServer": "false",
+    "AllowServerSearchObjects": "false",
+    "EnableDynamicDataUpdate": "false",
+    "LogfileIOMode": "LOGFILE_CLASSIC_OVERWRITE",
+    "UseAjaxUI": "false",
+    "ClearedForNamedUserDocumentCal": "true",
+    "NotClearedForNamedUserDocumentCalReason": "",
+    "UseMetaSectionAccessNames": "true",
+    "SelectionAlpha": "255",
+    "DefaultTextSearchMode": "TEXT_SEARCH_NORMAL",
+    "OEMProtected": "true",
+    "OEM_IDS": "",
+    "StateNames": "",
+    "Extensions": "",
+    "ExtensionDescriptions": "",
+    "AllowServerAnnotation": "true",
+    "LastReloadTimeAsISOString": "2016-10-17T20:14:02.000+0100",
+    "AppProperties": {
+      "Title": "",
+      "LastReloadTime": "2016-10-17T20:14:02.000+0100",
+      "MigrationHash": "",
+      "SavedInProductVersion": "",
+      "Thumbnail": ""
+    },
+    "LocalizedMainSection": "",
+    "FavoriteVariables": "",
+    "SearchFields": "",
+    "GreynessFields": "",
+    "CompatibelPivotCalcMode": "true"
+  }
+}
