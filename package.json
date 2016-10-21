@@ -1,8 +1,14 @@
 {
   "name": "qlik-tests",
-  "version": "0.0.1",
+  "version": "0.0.9",
+  "description": "Grunt tests for Qlikview -prj xml files",
+  "author": "Stefan Stoichev <stefan.stoichev@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/countnazgul/qlik-tests"
+  },
   "devDependencies": {
-    "grunt": "~0.4.5",
+    "grunt": "^1.0.1",
     "grunt-contrib-clean": "^1.0.0",
     "grunt-contrib-copy": "^1.0.0",
     "grunt-convert": "^0.1.12",
