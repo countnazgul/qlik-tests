@@ -83,7 +83,7 @@ module.exports = function(grunt) {
 			grunt.task.run('macroModule');
 			grunt.task.run('generateLogFile');
 			grunt.task.run('synKeys');
-			grunt.task.run('force:clean');
+			grunt.task.run('clean');
 		}
 		else {
 			grunt.fail.fatal('No source folder provided! Pleaase start the test with --source=MyDir parameter.');

@@ -1,6 +1,6 @@
 {
   "name": "qlik-tests",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "Grunt tests for Qlikview -prj xml files",
   "author": "Stefan Stoichev <stefan.stoichev@gmail.com>",
   "repository": {
